@@ -1,5 +1,5 @@
 # InsultMachine
-The official repo of [my npm package](https://www.npmjs.com/package/insultmachine) that generates insults.
+**The official repo of __[my npm package](https://www.npmjs.com/package/insultmachine)__ that generates insults.**
 
 `npm i insultmachine`
 ## Usage
