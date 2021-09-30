@@ -18,4 +18,4 @@ if(message.content == '!insult'){
   message.channel.send(Machine.InsultMachine());
 }
 ```
-If you want a compliment instead of an insult, use Machine.ComplimentMachine() instead of InsultMachine().
+**_If you want a compliment instead of an insult, use Machine.ComplimentMachine() instead of InsultMachine()_**
