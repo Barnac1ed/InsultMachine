@@ -1,3 +1,4 @@
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Barnac1ed/InsultMachine?style=plastic)
 # InsultMachine
 **The official repo of __[my npm package](https://www.npmjs.com/package/insultmachine)__ that generates insults.**
 
