@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/insultmachine?style=plastic)
+![npm](https://img.shields.io/npm/v/insultmachine?style=plastic) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/Barnac1ed/InsultMachine/master?style=plastic) ![GitHub branch checks state](https://img.shields.io/github/checks-status/Barnac1ed/InsultMachine/master?style=plastic) ![GitHub all releases](https://img.shields.io/github/downloads/Barnac1ed/InsultMachine/total?style=plastic)
 
 # InsultMachine
 **The official repo of __[my npm package](https://www.npmjs.com/package/insultmachine)__ that generates insults.**
