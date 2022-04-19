@@ -10,14 +10,14 @@ First, require the package. `const Machine = require('InsultMachine');` or `impo
 Then you can use randomly generated insults and compliments.
 ## Examples
 
-```
+```javascript
 console.log(Machine.InsultMachine());
 // -> You're so fat that when you farted you started global warming.
 ```
 or using Discordjs
-```
+```javascript
 if(message.content == '!insult'){
   message.channel.send(Machine.InsultMachine());
 }
 ```
-**_If you want a compliment instead of an insult, use Machine.ComplimentMachine() instead of InsultMachine()_**
+**_If you want a compliment instead of an insult, use `Machine.ComplimentMachine()` instead of InsultMachine()_**
